@@ -1,0 +1,28 @@
+name: Jimmy Kryzak
+favicon: null
+layout_spectrum: 0.9634550984483212
+typography_spectrum: 0.6940991070587188
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.07158166891895235
+  lightness: 0.5289055705070496
+  saturation: 0.34561686287634075
+  rhythmicContrast: 0.21213383739814162
+purpose: []
