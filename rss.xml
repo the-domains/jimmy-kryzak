@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jimmy Kryzak]]></title>
         <description><![CDATA[Jimmy Kryzak]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jimmy-kryzak/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 17:51:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 Nov 2015 19:06:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jimmy-kryzak/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome all to my new website on the Grid</p>]]></description>
+            <link>https://thegrid.ai/jimmy-kryzak/6b2f967b-c835-4084-871c-a8831f23939c/index.html</link>
+            <guid isPermaLink="false">6b2f967b-c835-4084-871c-a8831f23939c</guid>
+            <pubDate>Sat, 21 Nov 2015 19:06:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/jimmy-kryzak/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">8953a324-45c6-44ca-b38d-6e4f0360b0b6</guid>
             <pubDate>Sat, 21 Nov 2015 17:51:47 GMT</pubDate>
         </item>
