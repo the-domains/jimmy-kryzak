@@ -1,40 +1,40 @@
+layout_spectrum: 1
 favicon: null
 name: Jimmy Kryzak
+purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     permalink:
       path: '/:title/'
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
-purpose: []
-color:
-  saturation: 0.9193549
-  brandStrength: 1
-  lightness: 0.4964158
-  brandColors:
-    - '#101010'
-    - '#444248'
-    - '#7C6863'
-    - '#D3937E'
-    - '#E5B7AB'
-  rhythmicContrast: 1
-typography_spectrum: 1
-layout_spectrum: 0.9634550984483212
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+color:
+  brandStrength: 1
+  lightness: 0.4964158
+  saturation: 1
+  rhythmicContrast: 0.8246205
+  brandColors:
+    - '#CFCBCA'
+    - '#08080A'
+    - '#A38E89'
+    - '#966B63'
+    - '#704A35'
+typography_spectrum: 0.2192243
